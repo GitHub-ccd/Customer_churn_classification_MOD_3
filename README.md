@@ -1,5 +1,5 @@
-<p style="font-size:300%; text-align:center"> Telco Customer Churn modeling</p>
-<p style="font-size:150%; text-align:center"> How to retain Telco customers via machine learning <br>
+# Telco Customer Churn modeling
+__How to retain Telco customers via machine learning__
 
 
 ## Introduction
