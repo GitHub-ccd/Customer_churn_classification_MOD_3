@@ -1,4 +1,4 @@
-# Telco Customer Churn modeling
+# Telco Customer Churn prediction
 __How to retain Telco customers via machine learning__
 
 
