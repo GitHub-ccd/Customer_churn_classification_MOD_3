@@ -1,4 +1,4 @@
-# Telco Customer Churn modeling
+# Telco Customer Churn prediction
 __How to retain Telco customers via machine learning__
 
 
@@ -30,11 +30,11 @@ For this project, you're going to select a dataset of your choosing and create a
 
 ## Methodology and code origanization
 ![](img/osemn.png)
-1. **1-Obtain.ipynb**: Data loading and initial visualization and exploration of target. outliers. 
-2. **2-Scrub.ipynb**: Cleaning data and verifying integrety. initial feature engineering based on domain expertiese. Assess the degree of multicolliniarity and possible ways of handling it.  
-3. **3-EDA.ipynb**: visualization and exploration of features in relation to the target. 
-4. **4-Model.ipynb**: Build a baseline model. Handel class imballance. Build several classification models. Compare evaluation matrices and bias variance tradoff off amoung them. Tune hyper parameters to achieve highest possible accuracy for acceptable level of recall. Prepare a suitable feature engineering strategy and impliment it to the best possible models.  
-5. **5-iNterpret.ipynb**: Further analyse the most important features obtained from the best model. Draw conclusion from the model and the predicted features. Build necessary figures to complement recommendation to Telco 
+- **1-Obtain.ipynb**: Data loading and initial visualization and exploration of target. outliers. 
+- **2-Scrub.ipynb**: Cleaning data and verifying integrety. initial feature engineering based on domain expertiese. Assess the degree of multicolliniarity and possible ways of handling it.  
+- **3-EDA.ipynb**: visualization and exploration of features in relation to the target. 
+- **4-Model.ipynb**: Build a baseline model. Handel class imballance. Build several classification models. Compare evaluation matrices and bias variance tradoff off amoung them. Tune hyper parameters to achieve highest possible accuracy for acceptable level of recall. Prepare a suitable feature engineering strategy and impliment it to the best possible models.  
+- **5-iNterpret.ipynb**: Further analyse the most important features obtained from the best model. Draw conclusion from the model and the predicted features. Build necessary figures to complement recommendation to Telco 
 
 ## final model summary
 ![](img/RandForest_feature_importance.png)
